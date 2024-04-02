@@ -312,11 +312,12 @@ header .topmiddle.active{
  
  #gnb li ul li a {
 	display: block;
-	padding-left: 20px;
+	/* padding-left: 20px; */
 	text-align: left;
 	line-height: 30px;
 	font-size: 0.875em;
 	color: #666;
+	text-align: center;
  }
  #gnb li ul li a:hover,
 #gnb li ul li a:focus {
